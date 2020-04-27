@@ -1,0 +1,8 @@
+
+bugs in third API
+
+http://13.126.80.194:8080/api/v1/users/{phoneNo}
+
+1.for wrong phone  number it is showing  status code 200.
+
+
